@@ -6,7 +6,7 @@
 https://www.toontownrewritten.com/
 
 ### Rating
-7/10
+8/10
 
 ## Summary
 Back in 2003 where the original Toontown was created, it was owned by Disney. Easy to tell by its wacky characters and way of how heavily they enforce child content. With a "legal guardian", you will not be able to experience the full potential of Toontown meaning typing almost anything u want. Another thing about Toontown was that u had to pay for a subscription to play. The game was stable until 2013 where Disney completely discontinued it. Until 2014 where the game was bought by a bunch of high schoolers and college students. Unknown group but they have managed to keep the game alive through donations and support. Another perk is that the game is now currently free and is not called "Toontown Rewritten."

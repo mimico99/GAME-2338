@@ -3,10 +3,10 @@
 ## Details
 
 ### Game Title
-Robot Unicorn ATttack http://www.adultswim.com/games/web/robot-unicorn-attack 
+Robot Unicorn Attack http://www.adultswim.com/games/web/robot-unicorn-attack 
 
 ### Rating
-Insert your rating system. Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+4/5
 
 ## Summary
 This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.

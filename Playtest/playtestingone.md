@@ -1,8 +1,8 @@
-# Playtest for [Game Title]
+# Playtest for Transformice
 
-* Game Publisher
-* Game Rating
-* [Game Title Website](http://example.com)
+* Atelier 801
+* 9/10
+* https://store.steampowered.com/app/335240/Transformice/
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
 > _Answer:_ Your answer here

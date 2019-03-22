@@ -1,4 +1,4 @@
-# Playtest for [Game Title]
+# Playtest for Groove Coaster
 
 * Game Publisher
 * Game Rating

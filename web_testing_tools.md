@@ -56,27 +56,27 @@ Answer
 
 ## Tool Three
 
-Wapt
+LoadRunner
 
 Tool Name
 
-_What company developed this test tool?_ 
+Micro Focus 
 
 Company Name
 
-_Does this tool do any test case storage?_ 
+Yes,they are stored in scripts 
 
 Answer
 
-_Does this tool allow tester to link requirements or defects to test cases?_ 
+Yes 
 
 Answer
 
-_If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
+No
 
 Answer
 
 ### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+* Cloud testing
+* supports a wide range of apps
+* interactive user transaction simulation

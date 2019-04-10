@@ -2,61 +2,61 @@
 
 ## Tool One
 
-_What is the name of the test tool?_ 
+Ranorex Studio 
 
 Tool Name
 
-_What company developed this test tool?_ 
+Ranorex GmbH 
 
 Company Name
 
-_Does this tool do any test case storage?_ 
+Yes. It results in .xml files that simplified the implementation process 
 
 Answer
 
-_Does this tool allow tester to link requirements or defects to test cases?_ 
+This company uses an automated regression test to find new defects
 
 Answer
 
-_If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
+Yes,it is built in microsoft .NET platform 
 
 Answer
 
 ### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+* object identification
+* Selenium testing
+* Code editor
 
 ## Tool Two
 
-_What is the name of the test tool?_ 
+WebLOAD 
 
 Tool Name
 
-_What company developed this test tool?_ 
+RadView Software 
 
 Company Name
 
-_Does this tool do any test case storage?_ 
+All webLOAD analtics are stored in a database
 
 Answer
 
-_Does this tool allow tester to link requirements or defects to test cases?_ 
+Yes 
 
 Answer
 
-_If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
+Yes,they work in JavaScript
 
 Answer
 
 ### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+* Mobile Load testing
+* Intergration
+* Load generation console
 
 ## Tool Three
 
-_What is the name of the test tool?_ 
+Wapt
 
 Tool Name
 

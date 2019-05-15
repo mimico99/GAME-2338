@@ -1,0 +1,106 @@
+{
+  "id": "400e5512-b8ae-4c59-856a-97d365e635d7",
+  "version": "2.0",
+  "name": "game over",
+  "url": "https://www.google.com/",
+  "tests": [{
+    "id": "fca08660-1ff3-4ae8-8f15-fd19316cef9c",
+    "name": "gam over",
+    "commands": [{
+      "id": "dde9a5f8-a8fd-4907-ab4b-4c53498e5f7a",
+      "comment": "",
+      "command": "open",
+      "target": "https://www.google.com/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3d6aa795-1453-4cdd-9eeb-3bd53353bc04",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1915x1076",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b1d5687b-396f-4d7c-9cda-01ad69adf802",
+      "comment": "",
+      "command": "type",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div/div/input", "xpath:position"]
+      ],
+      "value": "game ov er"
+    }, {
+      "id": "c8ffe6df-80c4-4796-8050-0be089db476e",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div/div/input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "1a8ad375-6daf-4855-85bf-b93731276781",
+      "comment": "",
+      "command": "click",
+      "target": "css=.bkWMgd > .g .LC20lb",
+      "targets": [
+        ["css=.bkWMgd > .g .LC20lb", "css:finder"],
+        ["xpath=//div[@id='rso']/div[2]/div/div/div/div/a/h3", "xpath:idRelative"],
+        ["xpath=//h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'Game Over Videogames')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "f5c03f23-8b5c-4691-8294-2c0b1f45bfca",
+      "comment": "",
+      "command": "click",
+      "target": "css=#pipeHolder_5 > .pipe",
+      "targets": [
+        ["css=#pipeHolder_5 > .pipe", "css:finder"],
+        ["xpath=//div[@id='pipeHolder_5']/img", "xpath:idRelative"],
+        ["xpath=//div[6]/a/div[3]/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "036ce78f-992d-47b1-ba70-0ada671ddeff",
+      "comment": "",
+      "command": "click",
+      "target": "css=#pipeHolder_2 > .pipe",
+      "targets": [
+        ["css=#pipeHolder_2 > .pipe", "css:finder"],
+        ["xpath=//div[@id='pipeHolder_2']/img", "xpath:idRelative"],
+        ["xpath=//div[3]/a/div[3]/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3ac52f71-4173-4e20-982f-46aa29271b7f",
+      "comment": "",
+      "command": "click",
+      "target": "css=#pipeHolder_3 > .pipe",
+      "targets": [
+        ["css=#pipeHolder_3 > .pipe", "css:finder"],
+        ["xpath=//div[@id='pipeHolder_3']/img", "xpath:idRelative"],
+        ["xpath=//div[4]/a/div[3]/img", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "b016dd28-3f1d-41cd-98ff-c81359b18fc0",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["https://www.google.com/"],
+  "plugins": []
+}
